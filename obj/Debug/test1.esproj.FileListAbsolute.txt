@@ -1,0 +1,2 @@
+C:\Users\skull\source\repos\Test1\Test1\obj\Debug\test1.esproj.SuggestedBindingRedirects.cache
+C:\Users\skull\source\repos\Test1\Test1\obj\Debug\test1.esproj.CoreCompileInputs.cache
